@@ -1,5 +1,5 @@
 # Power-BI-Customer-Shopping-Project-Dashboard
-This project is a comprehensive analysis of a grocery store's operations using Power BI, designed as part of a self-learning process provided by the institute. It focuses on uncovering actionable insights in sales, customer behavior, and product performance to better understand business dynamics.
+This project is a comprehensive analysis of a grocery store's operations using Power BI, designed as part of a self-learning process. It focuses on uncovering actionable insights in sales, customer behavior, and product performance to better understand business dynamics.
 
 Key Features: Sales Insights: Analyze overall sales trends, identify peak sales periods, and uncover revenue-driving products or categories. Gain clarity on seasonal patterns and their impact on revenue generation.
 
